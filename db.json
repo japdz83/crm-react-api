@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "John ACTUALIZADO!!!",
+      "empresa": "Zeta-V",
+      "email": "correo@correo.com",
+      "telefono": "23456789",
+      "notas": "Hola aqui va",
+      "id": 1
+    },
+    {
+      "nombre": "Connor",
+      "empresa": "Blizzar",
+      "email": "mail@mail.com",
+      "telefono": "98765432345",
+      "notas": "Un Studio de Video Juegos",
+      "id": 2
+    },
+    {
+      "nombre": "Grahan",
+      "empresa": "Ubisoft",
+      "email": "mail@mail.com",
+      "telefono": "9856787643",
+      "notas": "Un Studio de Video Juegos de Francia",
+      "id": 3
+    },
+    {
+      "nombre": "Leon",
+      "empresa": "Umbrella",
+      "email": "umbrella@umbrella.com",
+      "telefono": "34567890",
+      "notas": "Empresa de farmacos",
+      "id": 4
+    }
+  ]
+}
